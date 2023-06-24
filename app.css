@@ -1,0 +1,66 @@
+form {
+    background-color: rgba(211, 211, 211, 0.747);
+    }
+    
+    
+    .textbox {
+        width: 65%;
+        padding: 7.5px;
+        margin: 10px;
+        background-color: rgb(255, 255, 255);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    }
+    
+    
+    #sub {
+        position: relative;
+        left: 95%;
+        background-color: rgb(24, 132, 255);
+        color: white;
+        border:none ;
+        padding: 4px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    h1 {
+        text-align: center ;
+    }
+    
+    p {
+        text-align: center;
+        
+    }
+    
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    img {
+        width: 45%;
+        height: 45%;
+    }
+    
+    div .meme {
+        position: relative;
+        text-align: center;
+        color: black;
+    }
+    div .tp-txt{
+    position: absolute;
+    top: 0px; 
+    right: 50%;
+    font-size: 48px;
+    font-weight: bold;
+    }
+    
+    
+    
+    div .bm-txt {
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    font-size: 48px;
+    font-weight: bold;
+
+    }
